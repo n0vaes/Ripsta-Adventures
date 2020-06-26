@@ -26,5 +26,5 @@ This app uses incredible tools to develop games:
 Clone this repo using <code>git clone git@github.com:n0vaes/Ripsta-Adventures.git</code> </br>
 Or, if you wanna use P5.js: https://editor.p5js.org/n0vaes/sketches/uY3bg8Qv
 
-### Project
+## Project
 This is the video of how the game is designed: https://www.youtube.com/watch?v=nYH5dCg4XNY&feature=youtu.be
